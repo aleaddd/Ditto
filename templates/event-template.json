@@ -1,0 +1,23 @@
+{
+  "id": "event_id",
+
+  "name": "Event Name",
+
+  "game": "pokemon_go",
+
+  "type": "community_day|raid_day|fest|special",
+
+  "startDate": "",
+
+  "endDate": "",
+
+  "pokemon": [
+    0
+  ],
+
+  "shinyOdds": null,
+
+  "modifier": "",
+
+  "notes": ""
+}

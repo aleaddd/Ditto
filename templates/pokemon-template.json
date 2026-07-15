@@ -1,0 +1,31 @@
+{
+  "id": 0,
+  "name": "Pokemon Name",
+  "nationalDex": 0,
+
+  "generation": 0,
+
+  "types": [
+    "Type 1",
+    "Type 2"
+  ],
+
+  "forms": [
+    {
+      "id": "default",
+      "name": "Default Form",
+      "sprite": {
+        "normal": "",
+        "shiny": ""
+      }
+    }
+  ],
+
+  "availability": {
+    "mainSeries": true,
+    "pokemonGO": false,
+    "spinOffs": []
+  },
+
+  "notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "id": "game_id",
+
+  "name": "Game Name",
+
+  "category": "main_series|spin_off|mobile",
+
+  "generation": 0,
+
+  "baseShinyOdds": 4096,
+
+  "methods": [
+    "method_id"
+  ],
+
+  "modifiers": [
+    "modifier_id"
+  ],
+
+  "notes": ""
+}

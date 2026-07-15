@@ -1,0 +1,21 @@
+{
+  "id": "database_id",
+
+  "name": "Database Name",
+
+  "version": "1.0.0",
+
+  "author": "",
+
+  "game": "",
+
+  "pokemonSource": "national_dex",
+
+  "methods": [],
+
+  "modifiers": [],
+
+  "customRules": {},
+
+  "notes": ""
+}

@@ -1,0 +1,19 @@
+{
+  "id": "modifier_id",
+
+  "name": "Modifier Name",
+
+  "description": "What this modifier does.",
+
+  "type": "rolls|odds_override|multiplier",
+
+  "value": 0,
+
+  "gameAvailability": [
+    "game_id"
+  ],
+
+  "stackable": true,
+
+  "notes": ""
+}

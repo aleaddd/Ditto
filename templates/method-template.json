@@ -1,0 +1,21 @@
+{
+  "id": "method_id",
+
+  "name": "Method Name",
+
+  "description": "Description of the hunting method.",
+
+  "calculator": "calculator_function_name",
+
+  "gameAvailability": [
+    "game_id"
+  ],
+
+  "parameters": {
+    "example": "value"
+  },
+
+  "baseOddsOverride": null,
+
+  "notes": ""
+}

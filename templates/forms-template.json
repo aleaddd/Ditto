@@ -1,0 +1,23 @@
+{
+  "id": "form_id",
+
+  "pokemonId": 0,
+
+  "name": "Form Name",
+
+  "category": "regional|mega|gender|special",
+
+  "types": [
+    "Type 1",
+    "Type 2"
+  ],
+
+  "sprites": {
+    "normal": "",
+    "shiny": ""
+  },
+
+  "availableGames": [
+    "game_id"
+  ]
+}
