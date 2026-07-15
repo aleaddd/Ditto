@@ -1,0 +1,47 @@
+TODOLIST
+
+  FUNDAMENTALS
+
+    -Add simple scrollable menu to select the active hunt and display hunts
+
+    -Add a button to go back to hunts menu
+
+    -Add hunt creation button
+
+      -method selection
+
+      -live odds calculation
+
+      -game selection
+
+    -Active Hunt display
+
+      -increment editor (so how many enounters at a time)
+
+      -edit every hunt creation property
+
+      -a pausable timer
+
+      -Custom notes tab (local to avoid security concerns)
+
+      -Phase button (so a quick popup with a species selector that saves species, number of resets and timestamp, if checked AS A SEPARATE HUNT!)
+
+    -Increment methods
+
+      -click on button
+
+      -shortcut setter
+
+      -auto detect (later on, not mandatory)
+
+
+
+  VISUALS
+
+    -Colors and textures should be ditto themed
+
+    -little ditto (potentially hand drawn, will reach out to some creator)
+
+      -expressions based on hunt status (so based on under/over odds, success, fail, phases)
+
+      -the ditto works as an alternative increment button and will react maybe
